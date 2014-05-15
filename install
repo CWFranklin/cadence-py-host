@@ -1,0 +1,11 @@
+#!/bin/bash
+sudo apt-get install python3-psutil
+sudo apt-get install python3-pycrypto
+sudo apt-get install python3-pyOpenSSL
+sudo apt-get install python3-requests
+sudo apt-get install python3-urllib3
+sudo zypper in python3-psutil
+sudo zypper in python3-pycrypto
+sudo zypper in python3-pyOpenSSL
+sudo zypper in python3-requests
+sudo zypper in python3-urllib3
