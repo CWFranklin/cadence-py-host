@@ -1,0 +1,18 @@
+This file contains a list of people involved in the development
+of the C# Cadence Host.
+
+If you have questions about the project, please contact anyone
+in the PRIMARY AUTHORS group.
+
+PRIMARY AUTHORS:
+
+ * Chris Franklin (cwfranklin) <chris@cwfranklin.com>
+   - Main Developer
+
+THANKS TO:
+
+ * Brandon Scott (brandonscott) <brandon.scott03@gmail.com>
+   - Helping with Python knowledge and Pubnub integration
+   
+ * James Baldwin (jimmyjamesbaldwin) <jimmyjamesbaldwin@gmail.com>
+   - Helping with Pubnub integration and testing
